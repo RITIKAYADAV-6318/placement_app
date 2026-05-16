@@ -19,7 +19,7 @@ if st.button("Predict"):
 
     sample = pd.DataFrame(
         [[cgpa, internships, projects, aptitude]],
-        columns=['cgpa', 'internships', 'projects', 'aptitude_score']
+        columns=['CGPA', 'Internships', 'Projects', 'AptitudeTestScore']
     )
 
     prediction = model.predict(sample)
