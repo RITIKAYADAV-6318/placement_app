@@ -99,11 +99,12 @@ streamlit run app.py
 
 # 📸 Application Preview
 
-Add screenshots of your application here.
+# Home Page 
+<img width="1910" height="882" alt="Screenshot 2026-05-16 155119" src="https://github.com/user-attachments/assets/a13a3870-f349-4a1d-8c5c-c6a322734e74" />
+# Predictions and Working 
+<img width="1905" height="884" alt="Screenshot 2026-05-16 155138" src="https://github.com/user-attachments/assets/bada5ebc-0f95-418a-827a-45b0bb8891b6" />
+<img width="1912" height="887" alt="Screenshot 2026-05-16 155215" src="https://github.com/user-attachments/assets/92bc5b2c-85f6-4ccb-97d3-60f5231e75a4" />
 
-Example:
-- Home Page
-- Prediction Result Page
 
 ---
 
